@@ -8,6 +8,8 @@ repository = "https://github.com/maxcountryman/st"
 
 license = "BSD-3-Clause"
 
+keywords = ["cli", "st", "stats", "statistics"]
+
 [[bin]]
 name = "st"
 path = "src/main.rs"
