@@ -2,7 +2,7 @@
 Fast and simple statistics on the command line.
 
 `st` is a dead-simple tool for displaying simple statistics. It's a simplified
-port of the epnonymous Perl program and a faster, more light weight
+port of the eponymous Perl program and a faster, more light weight
 implementation of the Go variants.
 
 Why another command line stats tool?
