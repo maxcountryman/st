@@ -1,0 +1,15 @@
+[package]
+name = "st"
+version = "0.1.0"
+authors = ["Max Countryman <maxc@me.com>"]
+
+description = "Fast and simple statistics on the command line."
+repository = "https://github.com/maxcountryman/st"
+
+license = "BSD-3-Clause"
+
+[[bin]]
+name = "st"
+path = "src/main.rs"
+
+[dependencies]
