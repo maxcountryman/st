@@ -7,9 +7,9 @@ implementation of the Go variants.
 
 Why another command line stats tool?
 
-1. Fast
-2. Lightweight
-3. Can handle larger datasets as compared to its cousins
+* Fast
+* Lightweight
+* Can handle larger datasets as compared to its cousins
 
 ## Installation
 
